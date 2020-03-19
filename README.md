@@ -17,6 +17,7 @@ In 2017, the Ministry of Finance of the Republic of Kazakhstan sent a request le
 To address this request, the EBRD Legal Transition Programme (LTP) experts have designed a new assignment under the auspices of the EBRD GPA TC Facility (the “Assignment”) to assist the government with the development of a public procurement reporting tool for the national electronic procurement system (the “eProcurement System”). 
 <p>
   The problems identified in Kazakhstan during the project inception stage were as follows:
+  
 * There wasn’t an automated workflow management capability accessible to all public procurement process stakeholders. 
 *	Information regarding procurement procedures and public contracts, while stored electronically, was very difficult to retrieve. 
 *	Stored public procurement data was unstructured and this made it difficult to deliver reliable and accurate research results;
