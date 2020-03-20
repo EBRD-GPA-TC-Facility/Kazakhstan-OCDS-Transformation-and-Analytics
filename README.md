@@ -4,7 +4,7 @@
 <p>
 
 ### Description: 
-Data is extracted from the existing electronic public procurement system, which continues to operate, and transformed to the Open Contracting Data Standard (OCDS) and published. A business intelligence module is run on top of it, accessing the data via an Application Programme Interface (API). This provides government procurement policy makers with a tool to analyse and visualise procurement trends. 
+Data is extracted from the existing electronic public procurement system, which continues to operate, and transformed to the Open Contracting Data Standard (OCDS) and published. A business intelligence module is run on top of it, accessing the data via an Application Programme Interface (API). This analytial module provides government procurement policy makers with a tool to analyse and visualise procurement trends. 
 
 ### Project timeline:
 2018 – 2019	
