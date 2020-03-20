@@ -21,11 +21,11 @@ To address this request, the EBRD Legal Transition Programme (LTP) experts have 
 * There wasn’t an automated workflow management capability accessible to all public procurement process stakeholders. 
 *	Information regarding procurement procedures and public contracts, while stored electronically, was very difficult to retrieve. 
 *	Stored public procurement data was unstructured and this made it difficult to deliver reliable and accurate research results;
-*	The transactional data was unavailable;  
+*	The transactional data was unavailable for analysis;  
 *	The approach used for reporting was considered inefficient, unreliable, time-consuming, and hard to verify. 
 
 ## Objectives and vision
-Working with the EBRD GPA Technical Cooperation Facility, the Ministry of Finance aimed to modernise its public procurement system, ensuring it can draw on the data stored within its national eProcurement system to drive improved public procurement policies and decisions. It aimed to: 
+Working with the EBRD GPA Technical Cooperation Facility, the Ministry of Finance decided to modernise its public procurement system, ensuring it can draw on the data stored within its national eletroninc procurement system to drive improved public procurement policies and decisions. It aimed to: 
 
 *	Provide improved public procurement statistics to guide decision making;
 *	Generate automated public procurement reports;
@@ -37,19 +37,17 @@ The EBRD-developed vision to achieve these objectives contains two primary point
 
 ## Technological solution and implementation
 
-The developed solution extracts data from the existing eProcurement system and converts it to the OCDS standard while allowing the legacy solutions to continue running unaffected. Once the data has been converted to the OCDS it is consolidated in one database. The reporting module for public authorities has been set up, which access this data directly through an API. The public procurement reporting module allows users to analyse the eProcurement data and view it through a number of different angles and filters. The overall result is a publicly accessible contract register together with the business intelligence tools to dig into and analyse the contract data.
+The developed solution extracts data from the existing eletroninc procurement system and converts it to the OCDS standard while allowing the electronic procurement system to continue running its processes. Once the data has been converted to the OCDS and published, the reporting module for public authorities has been set up, which access this data directly through an API. The public procurement reporting module allows users to analyse the electronic procurement data and view the data through several different angles and filters. The overall result is the business intelligence tool to dig into and analyse the contract data.
 
 ## Results and future expectations
 
 As a result of the project, Kazakhstan now has a national-level public procurement data analytical infrastructure. This system enables a previously impossible level of vision over procurement spending within the country, and enables various types of big data analysis.
 In terms of the goals set for the project, the OCDS-based analytical system:
 
-*	Enables the automated generation of public procurement reports – through the “Explorer” analytical tool 
-*	Provides support for public administration regarding public procurement decisions – Government employees are able to use the “Explorer” tool to analyse public procurement data and guide their procurement decisions. 
+*	Enables the automated generation of public procurement reports – through the "Explorer" analytical tool 
+*	Provides support for public administration regarding public procurement decisions – Government employees are able to use the "Explorer" tool to analyse public procurement data and guide their procurement decisions. 
 
-Evidence that policy makers are making use of the business intelligence tool they now have to guide their decisions came with the passing of new legislation on how to deal with procurement complaints. The new system provided evidence regarding the inefficiencies of the existing review and complaints process for public procurement procedures. The new law reforming these procedures was passed as a result of having access to this data.
-
-Going forward, the impact of the project could be increased by allocating resources and budget to training and outreach programmes to promote the use of the business intelligence tools not just within the Ministry of Finance, but in agencies and departments across the Government. The tools and spending data now available, could be used to guide decision-making not just for public procurement specialists but for policy makers across different policy fields.
+Going forward, the impact of the project could be increased by allocating resources and budget to training and outreach programmes to promote the use of the business intelligence tool not just within the Ministry of Finance, but in agencies and departments across the Government. The tools and spending data now available, could be used to guide decision-making not just for public procurement specialists but for policy makers across different policy fields.
 
 ### Impact: 
 
