@@ -52,7 +52,7 @@ Going forward, the impact of the project could be increased by allocating resour
 ### Impact: 
 
 * Enables public procurement policy makers to take data-driven decisions; 
-* Provides for the automated generation of public procurement reports; 
+* Provides for the automated generation of public procurement reports.
 
 
 
